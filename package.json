@@ -5,10 +5,10 @@
   "keywords": ["passport", "dropbox", "auth", "authn", "authentication", "identity"],
   "repository": {
     "type": "git",
-    "url": "git://github.com/jaredhanson/passport-dropbox.git"
+    "url": "git://github.com/dwnz/passport-dropbox.git"
   },
   "bugs": {
-    "url": "http://github.com/jaredhanson/passport-dropbox/issues"
+    "url": "http://github.com/dwnz/passport-dropbox/issues"
   },
   "author": {
     "name": "Jared Hanson",
